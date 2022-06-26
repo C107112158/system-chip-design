@@ -1,7 +1,6 @@
 # system-chip-design
 
-
-# member
-  鄭彥禎
-  邱柏瑋
-  黃紫汝
+## <h2> member
+ * 鄭彥禎
+ * 邱柏瑋
+ * 黃紫汝
