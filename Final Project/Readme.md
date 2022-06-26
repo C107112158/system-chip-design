@@ -20,4 +20,3 @@
  
 [![IMAGE ALT TEXT](https://github.com/C107112158/system-chip-design/blob/main/Final%20Project/Picture/PC%E9%A1%AF%E7%A4%BA%E7%95%AB%E9%9D%A2.png)]((https://youtube.com/watch?v=Xn7lFodDros) "SOC Snake Game")
 
-
