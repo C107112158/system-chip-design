@@ -15,3 +15,7 @@
 ![image](https://github.com/C107112158/system-chip-design/blob/main/Final%20Project/Picture/PC%E9%A1%AF%E7%A4%BA%E7%95%AB%E9%9D%A2.png)
  * Zedboard Instructions <h1>
 ![image](https://github.com/C107112158/system-chip-design/blob/main/Final%20Project/Picture/Zedboard%E6%93%8D%E4%BD%9C%E8%AA%AA%E6%98%8E.png)
+ 
+ # Demo Video
+ 
+[![IMAGE ALT TEXT](https://github.com/C107112158/system-chip-design/blob/main/Final%20Project/Picture/PC%E9%A1%AF%E7%A4%BA%E7%95%AB%E9%9D%A2.png)]([https://www.youtube.com/watch?v=GtlcOowVptU](https://youtu.be/Xn7lFodDros) "SOC Snake Game")
