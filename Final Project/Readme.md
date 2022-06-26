@@ -1,6 +1,6 @@
 # Requirement
   * Hardware
-  * Sofrware
+  * Software
 ## Hardware
   * Zedboard Zynq-7000
 ## Software
